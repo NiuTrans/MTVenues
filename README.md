@@ -4,9 +4,9 @@ This is a list about the International and Chinese conferences & journals which 
 
 We divide the conferences & journals into three categories according to the degree of relevance to machine translation:
 
-- ### **Natural Language Processing** includes conferences & journals focusing on natural language processing and computer linguistics. It also includes seminars and workshops strongly related to machine translation.
-- ### **Artificial Intelligence & Machine Learning** represents the conferences & journals that accept papers come from various disciplines and fields, such as NLP/CV/ML/Speech and so on. What they have in common is that they all accept machine translation papers.
-- ### **Others** is a complement for the sufficiency of the list.
+- ***Natural Language Processing*** includes conferences & journals focusing on natural language processing and computer linguistics. It also includes seminars and workshops strongly related to machine translation.
+- ***Artificial Intelligence & Machine Learning*** represents the conferences & journals that accept papers come from various disciplines and fields, such as NLP/CV/ML/Speech and so on. What they have in common is that they all accept machine translation papers.
+- ***Others*** is a complement for the sufficiency of the list.
 
 The list will be updated constantly and any comments will be welcome.
 
@@ -55,15 +55,15 @@ The list will be updated constantly and any comments will be welcome.
         <td align='center' nowrap='nowrap'><a href='https://iwslt.org/'>IWSLT</a></td>
     </tr>
     <tr>
-        <td nowrap='nowrap'>Natural Language Processing and Chinese <br>Computing <font color='red'>(Chinese)</font></br></td>
+        <td nowrap='nowrap'>Natural Language Processing and Chinese <br>Computing (Chinese)</br></td>
         <td align='center' nowrap='nowrap'><a href='http://tcci.ccf.org.cn/conference/2022/'>NLPCC</a></td>
     </tr>
     <tr>
-        <td nowrap='nowrap'>China National Conference on Chinese <br>Computational Linguistics <font color='red'>(Chinese)</font></br></td>
+        <td nowrap='nowrap'>China National Conference on Chinese <br>Computational Linguistics (Chinese)</br></td>
         <td align='center' nowrap='nowrap'><a href='http://cips-cl.org/static/CCL2021/index.html'>CCL</a></td>
     </tr>
     <tr/br>
-        <td nowrap='nowrap'>China Conference on Machine Translation <br><font color='red'>(Chinese)</br></font></td>
+        <td nowrap='nowrap'>China Conference on Machine Translation <br>(Chinese)</br></td>
         <td align='center' nowrap='nowrap'><a href='http://sc.cipsc.org.cn/mt/conference/2021/'>CCMT</a></td>
     </tr>
     <tr>
@@ -96,7 +96,7 @@ The list will be updated constantly and any comments will be welcome.
         <td align='center' nowrap='nowrap'><a href='https://www.springer.com/journal/10579'>LRE</a></td>
     </tr>
     <tr>
-        <td nowrap='nowrap'>中文信息学报 <font color='red'>(Chinese)</font></td>
+        <td nowrap='nowrap'>中文信息学报 (Chinese)</td>
         <td align='center' nowrap='nowrap'><a href='http://jcip.cipsc.org.cn/CN/volumn/home.shtml'>only link</a></td>
     </tr>
 </table>
@@ -194,27 +194,27 @@ The list will be updated constantly and any comments will be welcome.
     </tr>
     <tr>
         <td align='center' nowrap='nowrap' rowspan='6'>Journal</br></td>
-        <td nowrap='nowrap'>计算机学报 <font color='red'>(Chinese)</font></td>
+        <td nowrap='nowrap'>计算机学报 (Chinese)</td>
         <td align='center' nowrap='nowrap'><a href='http://cjc.ict.ac.cn/'>only link</a></td>
     </tr>
     <tr>
-        <td nowrap='nowrap'>软件学报 <font color='red'>(Chinese)</font></td>
+        <td nowrap='nowrap'>软件学报 (Chinese)</td>
         <td align='center' nowrap='nowrap'><a href='http://www.jos.org.cn/jos/home'>only link</a></td>
     </tr>
     <tr>
-        <td nowrap='nowrap'>中国科学：信息科学 <font color='red'>(Chinese)</font></td>
+        <td nowrap='nowrap'>中国科学：信息科学 (Chinese)</td>
         <td align='center' nowrap='nowrap'><a href='https://www.sciengine.com/publisher/scp/journal/SSI?slug=abstracts'>only link</a></td>
     </tr>
     <tr>
-        <td nowrap='nowrap'>电子学报 <font color='red'>(Chinese)</font></td>
+        <td nowrap='nowrap'>电子学报 (Chinese)</td>
         <td align='center' nowrap='nowrap'><a href='http://www.ejournal.org.cn/'>only link</a></td>
     </tr>
     <tr>
-        <td nowrap='nowrap'>计算机研究与发展 <font color='red'>(Chinese)</font></td>
+        <td nowrap='nowrap'>计算机研究与发展 (Chinese)</td>
         <td align='center' nowrap='nowrap'><a href='https://crad.ict.ac.cn/CN/1000-1239/home.shtml'>only link</a></td>
     </tr>
     <tr>
-        <td nowrap='nowrap'>自动化学报 <font color='red'>(Chinese)</font></td>
+        <td nowrap='nowrap'>自动化学报 (Chinese)</td>
         <td align='center' nowrap='nowrap'><a href='http://www.aas.net.cn/'>only link</a></td>
     </tr>
 </table>
