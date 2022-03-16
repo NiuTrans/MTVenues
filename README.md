@@ -1,6 +1,6 @@
 # MT Conference & Journal
 
-This is a list of conferences and journals which are explicly or implictly related to **MACHINE TRANSLATION**. Most of them are English venues are and we include some Chinese venues as well. The list is broken down into three categories: 1) natural langauge proceessing venues, artificial Intelligence & machine learning venues, and other venues.
+This is a list of conferences and journals which are explicly or implictly related to **MACHINE TRANSLATION**. Most of them are English venues, and we include a number of Chinese venues as well. The list is broken down into three categories: 1) natural langauge proceessing venues, artificial Intelligence & machine learning venues, and other venues.
 
 ## Natural Language Processing
 <table style="font-size:18px;">
@@ -89,7 +89,7 @@ This is a list of conferences and journals which are explicly or implictly relat
     </tr>
     <tr>
         <td nowrap='nowrap'>中文信息学报 (Chinese)</td>
-        <td align='center' nowrap='nowrap'><a href='http://jcip.cipsc.org.cn/CN/volumn/home.shtml'>only link</a></td>
+        <td align='center' nowrap='nowrap'><a href='http://jcip.cipsc.org.cn/CN/volumn/home.shtml'>link</a></td>
     </tr>
 </table>
 
@@ -187,27 +187,27 @@ This is a list of conferences and journals which are explicly or implictly relat
     <tr>
         <td align='center' nowrap='nowrap' rowspan='6'>Journal</br></td>
         <td nowrap='nowrap'>计算机学报 (Chinese)</td>
-        <td align='center' nowrap='nowrap'><a href='http://cjc.ict.ac.cn/'>only link</a></td>
+        <td align='center' nowrap='nowrap'><a href='http://cjc.ict.ac.cn/'>link</a></td>
     </tr>
     <tr>
         <td nowrap='nowrap'>软件学报 (Chinese)</td>
-        <td align='center' nowrap='nowrap'><a href='http://www.jos.org.cn/jos/home'>only link</a></td>
+        <td align='center' nowrap='nowrap'><a href='http://www.jos.org.cn/jos/home'>link</a></td>
     </tr>
     <tr>
         <td nowrap='nowrap'>中国科学：信息科学 (Chinese)</td>
-        <td align='center' nowrap='nowrap'><a href='https://www.sciengine.com/publisher/scp/journal/SSI?slug=abstracts'>only link</a></td>
+        <td align='center' nowrap='nowrap'><a href='https://www.sciengine.com/publisher/scp/journal/SSI?slug=abstracts'>link</a></td>
     </tr>
     <tr>
         <td nowrap='nowrap'>电子学报 (Chinese)</td>
-        <td align='center' nowrap='nowrap'><a href='http://www.ejournal.org.cn/'>only link</a></td>
+        <td align='center' nowrap='nowrap'><a href='http://www.ejournal.org.cn/'>link</a></td>
     </tr>
     <tr>
         <td nowrap='nowrap'>计算机研究与发展 (Chinese)</td>
-        <td align='center' nowrap='nowrap'><a href='https://crad.ict.ac.cn/CN/1000-1239/home.shtml'>only link</a></td>
+        <td align='center' nowrap='nowrap'><a href='https://crad.ict.ac.cn/CN/1000-1239/home.shtml'>link</a></td>
     </tr>
     <tr>
         <td nowrap='nowrap'>自动化学报 (Chinese)</td>
-        <td align='center' nowrap='nowrap'><a href='http://www.aas.net.cn/'>only link</a></td>
+        <td align='center' nowrap='nowrap'><a href='http://www.aas.net.cn/'>link</a></td>
     </tr>
 </table>
 
