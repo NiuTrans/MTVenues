@@ -1,14 +1,6 @@
 # MT Conference & Journal
 
-This is a list about the International and Chinese conferences & journals which are related to **MACHINE TRANSLATION**. We collect this list to provide reference for machine translation researchers. 
-
-We divide the conferences & journals into three categories according to the degree of relevance to machine translation:
-
-- ***Natural Language Processing*** includes conferences & journals focusing on natural language processing and computer linguistics. It also includes seminars and workshops strongly related to machine translation.
-- ***Artificial Intelligence & Machine Learning*** represents the conferences & journals that accept papers come from various disciplines and fields, such as NLP/CV/ML/Speech and so on. What they have in common is that they all accept machine translation papers.
-- ***Others*** is a complement for the sufficiency of the list.
-
-The list will be updated constantly and any comments will be welcome.
+This is a list of conferences and journals which are explicly or implictly related to **MACHINE TRANSLATION**. Most of them are English venues are and we include some Chinese venues as well. The list is broken down into three categories: 1) natural langauge proceessing venues, artificial Intelligence & machine learning venues, and other venues.
 
 ## Natural Language Processing
 <table style="font-size:18px;">
