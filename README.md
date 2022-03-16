@@ -1,4 +1,4 @@
-# MT Conference & Journal
+# MT Conferences & Journals
 
 This is a list of conferences and journals which are explicly or implictly related to **MACHINE TRANSLATION**. Most of them are English venues, and we include a number of Chinese venues as well. The list is broken down into three categories: 1) natural langauge proceessing venues, artificial Intelligence & machine learning venues, and other venues.
 
