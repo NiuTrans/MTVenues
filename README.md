@@ -60,7 +60,7 @@ This is a list of conferences and journals which are explicly or implictly relat
     </tr>
     <tr>
         <td align='center' nowrap='nowrap' rowspan='8'>Journal</br></td>
-        <td nowrap='nowrap'>Machine Translation (已停刊)</td>
+        <td nowrap='nowrap'>Machine Translation (will be merged with LRE)</td>
         <td align='center' nowrap='nowrap'><a href='https://www.springer.com/journal/10590'>MT</a></td>
     </tr>
     <tr>
